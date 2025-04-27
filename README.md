@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm the founder of **Apexbytes**, a technology sta
 
 ---
 
-## 🚀 About Me
+## 🚀 About Apexbytes
 
 As a team, we specialize in:  
 ✔ **Web App Development**  
@@ -28,10 +28,12 @@ Whether you need a **new web application**, **API integrations**, or **tech supp
 | Service | Description |
 |---------|-------------|
 | **Web App Development** | Custom, responsive, and scalable web applications built to meet your business goals. |
-| **API Integration** | Seamless integrations with third-party services to enhance functionality. |
-| **Custom Software Development** | Tailored solutions for your unique business needs. |
-| **Maintenance & Support** | Ongoing support to ensure smooth operation. |
-
+| **Mobile App Development** | Cross-platform (Flutter/React Native) or native (Swift/Kotlin) apps for iOS and Android. |
+| **UI/UX Design** | Intuitive, user-centric interfaces designed to improve engagement and conversion. |
+| **API Integration** | Seamless third-party integrations (payment gateways, analytics, SaaS tools). |
+| **Custom Software Development** | Tailored solutions for automation, workflows, or niche business needs. |
+| **Cloud Backend Development** | Scalable cloud architecture (AWS, Firebase, or custom Node.js/PHP/Laravel backends). |
+| **Maintenance & Support** | Proactive updates, bug fixes, and performance optimization. |
 ---
 
 ## 💻 Tech Stack
@@ -49,6 +51,7 @@ Whether you need a **new web application**, **API integrations**, or **tech supp
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### **Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -72,8 +75,8 @@ Our company website showcasing our services and portfolio.
 **Tech:** Angular  
 A client website built with a modern frontend.
 
-### 🏥 [Patient Management System](#) *(Coming Soon)*  
-**Tech:** NestJS, PostgreSQL  
+### 🏥 [Patient Management System](#) *(In progress)*  
+**Tech:** Spring Boot, Angular, PostgreSQL  
 A healthcare management platform.
 
 ---
@@ -86,7 +89,7 @@ A healthcare management platform.
 
 ---
 
-## 📞 Let's Connect
+### 📞 Let's Connect
 
 [![Website](https://img.shields.io/badge/🌐_Visit_My_Website-apexbytes.com-2ea44f?style=for-the-badge)](https://apexbytes.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/apexbyts)
@@ -94,12 +97,13 @@ A healthcare management platform.
 
 ---
 
-## ⚡ Fun Facts
+### ⚡ Fun Facts
 
-- 😎 Passionate about solving **complex problems** with code.  
-- 📚 Love reading **tech blogs** and exploring new tech.  
-- 🌍 Contribute to **open-source** and tech communities.  
+- 😎 **Problem solver at heart** – cracking complex challenges with clean code.  
+- 🔫 **FPS fanatic** – competitive shooters, tactical gameplay, and esports.  
+- ⛰️ **Forest & mountain hiker** – swapping screens for trails and summit views.  
+- 🌍 **Open-source contributor** – building tools to help the dev community.  
 
 ---
 
-### Happy Coding! 🚀✨
+
