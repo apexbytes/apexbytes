@@ -1,6 +1,6 @@
 # Apexbytes <img src="https://img.shields.io/badge/🚀-Innovative-blue?style=flat" alt="Innovative" align="right"/>
 
-Welcome to my GitHub profile! I'm the founder of **Apexbytes**, a technology startup focused on delivering **innovative web solutions** and **custom software development**. At Apexbytes, we empower businesses with cutting-edge technologies and strategies that drive growth and digital transformation.
+Welcome to my GitHub profile! I'm the founder of **Apexbytes**, a technology startup focused on delivering **innovative web solutions** and **custom software solutions**. At Apexbytes, we empower businesses with cutting-edge technologies and strategies that drive growth and digital transformation.
 
 ---
 
